@@ -1,5 +1,7 @@
 # The Rust Programming Language
 
+Following [The Official Rust Book](https://doc.rust-lang.org/book/title-page.html).
+
 - the `main` function is always executed first in Rust
 - use `cargo` to manage (build, run, check, & release) projects
 
