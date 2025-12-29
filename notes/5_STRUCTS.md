@@ -16,7 +16,7 @@
 - adding a hash will pretty-print: `{<var>:#?}`
 
 ## Methods
-- a method is a function, but defined in context of a struct (enum, or trait)
+- a method is a function, but defined in context of a struct (+ enum or trait)
 - syntax: `impl <struct_name> { fn <fn_name>(<signature>) {...} }`
 - signature: `self` (own), `&self` (borrow), or `&mut self` (borrow mutably)
 - constructor is a method without self in signature (`<struct_name>::<fn_name>`)
